@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1431060504 source:c:\users\luis\dropbox\inco\seminario de solución de problemas de programación\proyectohospital\programa 53 (estructuras)\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<string>
+	<conio.h>
+
